@@ -11,10 +11,10 @@
   <img src='https://github.com/misa335/python-sketch/blob/master/supergirl.jpg' alt='supergirl' width='200' height='200'>
   
 - 作成されたスケッチ画像
-  <img src='https://github.com/misa335/python-sketch/blob/master/sketch.jpg' alt='sketch' width='200' height='200'>
+  <img src='https://github.com/misa335/python-sketch/blob/master/sketch.png' alt='sketch' width='200' height='200'>
 
 ## 使い方
-① レポジトリをcloneします。
-② OpenCVをインストールしていない方は、インストールします。[OpenCV](https://opencv.org/)
-③ スケッチ画を作成したいカラー画像をルートディレクトリに保存します。
-④ プログラムを実行します。 
+  ① レポジトリをcloneします。
+  ② OpenCVをインストールしていない方は、インストールします。[OpenCV](https://opencv.org/)
+  ③ スケッチ画を作成したいカラー画像をルートディレクトリに保存します。
+  ④ プログラムを実行します。 
